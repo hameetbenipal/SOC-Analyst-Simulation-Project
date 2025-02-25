@@ -1,4 +1,4 @@
-# SOC-Analyst-Simulation-Project
+# SOC Analyst Simulation Project
 
 ## Objective
 
