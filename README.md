@@ -40,4 +40,4 @@ This project strengthened my skills in SIEM configuration, threat detection, log
 
 All steps and documentation for this lab are linked below.
 
-<a href="https://github.com/hameetbenipal/SOAR-EDR-Project/blob/main/SOAR%20Project%20Documentation.pdf">Lab Documentation</a>
+<a href="https://github.com/hameetbenipal/SOC-Analyst-Simulation-Project/blob/main/SOC%20Analyst%20Lab%20Documentation.pdf">Lab Documentation</a>
